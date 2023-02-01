@@ -1,1 +1,1 @@
-##servers_in
+##mysql_installation
